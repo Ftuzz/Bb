@@ -1,5 +1,3 @@
-from telegram import Update, InlineQueryResultArticle, InputTextMessageContent, InlineKeyboardMarkup, InlineKeyboardButton
-from telegram.ext import ApplicationBuilder, CommandHandler, InlineQueryHandler, ContextTypes, CallbackQueryHandler
 from uuid import uuid4
 import json
 from datetime import datetime, timedelta
