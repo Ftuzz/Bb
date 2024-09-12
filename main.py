@@ -1,4 +1,3 @@
-from telegram import ApplicationBuilder, CommandHandler, InlineQueryHandler, ContextTypes, CallbackQueryHandler
 from uuid import uuid4
 import json
 from datetime import datetime, timedelta
