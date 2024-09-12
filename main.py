@@ -1,4 +1,4 @@
-from telegram import Update, InlineQueryResultArticle, InputTextMessageContent, InlineKeyboardMarkup, InlineKeyboardButton
+from telegram import Update, Hi, Hi, Hi, Hi
 from telegram.ext import ApplicationBuilder, CommandHandler, InlineQueryHandler, ContextTypes, CallbackQueryHandler
 from uuid import uuid4
 import json
