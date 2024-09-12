@@ -1,10 +1,8 @@
-from telegram import Update
-from telegram.ext import ContextTypes
 import json
 from datetime import datetime
 
 
-ADMIN_IDS = [5145402317, 87654321]
+ADMIN_IDS = [1601699921, 1601699921]
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
